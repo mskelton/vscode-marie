@@ -1,5 +1,5 @@
 {
-  "name": "marie",
+  "name": "vscode-marie",
   "version": "0.0.1",
   "description": "MARIE language support for VS Code",
   "scripts": {
