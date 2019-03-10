@@ -1,5 +1,6 @@
 {
   "name": "marie",
+  "displayName": "MARIE",
   "version": "1.0.1",
   "description": "MARIE language support for VS Code",
   "scripts": {
