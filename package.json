@@ -1,6 +1,6 @@
 {
   "name": "vscode-marie",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "MARIE language support for VS Code",
   "scripts": {
     "build": "node scripts/build.js"
