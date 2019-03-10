@@ -1,0 +1,46 @@
+{
+  "name": "marie",
+  "version": "0.0.1",
+  "description": "MARIE language support for VS Code",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/markypython/marie.git"
+  },
+  "keywords": [
+    "vscode",
+    "language"
+  ],
+  "author": "Mark Skelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markypython/marie/issues"
+  },
+  "homepage": "https://github.com/markypython/marie#readme",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "contributes": {
+    "languages": [
+      {
+        "id": "marie",
+        "extensions": [
+          ".mas"
+        ]
+      }
+    ],
+    "grammars": [
+      {
+        "language": "marie",
+        "scopeName": "source.marie",
+        "path": "./lib/syntaxes/marie.tmGrammar.json"
+      }
+    ]
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "yaml": "^1.4.0"
+  }
+}
