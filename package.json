@@ -19,6 +19,7 @@
     "url": "https://github.com/markypython/marie/issues"
   },
   "homepage": "https://github.com/markypython/marie#readme",
+  "publisher": "markskelton",
   "engines": {
     "vscode": "^1.12.0"
   },
