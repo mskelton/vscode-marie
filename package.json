@@ -1,5 +1,5 @@
 {
-  "name": "vscode-marie",
+  "name": "marie",
   "version": "1.0.0",
   "description": "MARIE language support for VS Code",
   "scripts": {
@@ -41,6 +41,18 @@
       }
     ]
   },
+  "badges": [
+    {
+      "href": "https://travis-ci.com/markypython/vscode-marie",
+      "url": "https://travis-ci.com/markypython/vscode-marie.svg?branch=master",
+      "description": "TravisCI build status"
+    },
+    {
+      "href": "https://marketplace.visualstudio.com/items?itemName=markskelton.marie",
+      "url": "https://img.shields.io/vscode-marketplace/v/markskelton.marie.svg",
+      "description": "Visual Studio Marketplace version"
+    }
+  ],
   "devDependencies": {},
   "dependencies": {
     "yaml": "^1.4.0"
