@@ -50,7 +50,7 @@
     },
     {
       "href": "https://marketplace.visualstudio.com/items?itemName=markskelton.marie",
-      "url": "https://img.shields.io/vscode-marketplace/v/markskelton.marie.svg",
+      "url": "https://img.shields.io/visual-studio-marketplace/v/markskelton.marie.svg",
       "description": "Visual Studio Marketplace version"
     }
   ],
