@@ -12,7 +12,7 @@
       <Categories>Programming Languages</Categories>
       <GalleryFlags>Public</GalleryFlags>
       <Properties />
-      <Icon>extension/icon.svg</Icon>
+      <Icon>extension/images/icon.svg</Icon>
    </Metadata>
 
    <Installation>
@@ -24,7 +24,7 @@
    <Assets>
       <Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
       <Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" />
-      <Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/icon.svg" Addressable="true" />
+      <Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/images/icon.svg" Addressable="true" />
    </Assets>
 
 </PackageManifest>
