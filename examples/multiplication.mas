@@ -1,0 +1,32 @@
+/ Multiplication Calculator
+/ by the MARIE.js Team
+/ Copyright (C) 2016. Licensed under the MIT License
+
+/ Prompt user to type in integers
+		INPUT
+		Store X
+		INPUT
+		Store Y
+
+/ Loop for performing iterative addition
+Loop,	Load		Sum
+		Add			X
+		Store		Sum
+
+		Load		Y
+		Subt		One
+		Store		Y
+
+		Skipcond	400		/ have we completed the multiplication?
+		Jump 		Loop	/ no, repeat loop
+							/ yes, exit the loop
+
+/ Output result to user then halt program
+		Load		Sum
+		Output
+		Halt
+
+X,		DEC			0
+Y,		DEC			0
+Sum,	DEC			0
+One,	DEC			1
