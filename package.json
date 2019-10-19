@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/markypython/marie.git"
+    "url": "git+ssh://git@github.com/mskelton/marie.git"
   },
   "keywords": [
     "vscode",
@@ -18,9 +18,9 @@
   "author": "Mark Skelton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/markypython/marie/issues"
+    "url": "https://github.com/mskelton/marie/issues"
   },
-  "homepage": "https://github.com/markypython/marie#readme",
+  "homepage": "https://github.com/mskelton/marie#readme",
   "icon": "images/icon.png",
   "publisher": "markskelton",
   "engines": {
@@ -45,8 +45,8 @@
   },
   "badges": [
     {
-      "href": "https://travis-ci.com/markypython/vscode-marie",
-      "url": "https://travis-ci.com/markypython/vscode-marie.svg?branch=master",
+      "href": "https://travis-ci.com/mskelton/vscode-marie",
+      "url": "https://travis-ci.com/mskelton/vscode-marie.svg?branch=master",
       "description": "TravisCI build status"
     },
     {
