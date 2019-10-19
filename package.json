@@ -1,7 +1,7 @@
 {
   "name": "marie",
   "displayName": "MARIE",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "MARIE language support for VS Code",
   "scripts": {
     "build": "node scripts/build.js",
