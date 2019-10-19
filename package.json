@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mskelton/marie.git"
+    "url": "git+ssh://git@github.com/mskelton/vscode-marie.git"
   },
   "keywords": [
     "vscode",
@@ -18,9 +18,9 @@
   "author": "Mark Skelton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mskelton/marie/issues"
+    "url": "https://github.com/mskelton/vscode-marie/issues"
   },
-  "homepage": "https://github.com/mskelton/marie#readme",
+  "homepage": "https://github.com/mskelton/vscode-marie#readme",
   "icon": "images/icon.png",
   "publisher": "markskelton",
   "engines": {
