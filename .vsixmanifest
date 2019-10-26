@@ -5,7 +5,7 @@
   Version="2.0.0">
 
    <Metadata>
-      <Identity Language="en-US" Id="marie" Version="2.13.4" Publisher="markskelton" />
+      <Identity Language="en-US" Id="marie" Version="2.13.4" Publisher="mskelton" />
       <DisplayName>MARIE</DisplayName>
       <Description xml:space="preserve">MARIE language support for VS Code</Description>
       <Tags>vscode</Tags>

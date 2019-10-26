@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mskelton/vscode-marie#readme",
   "icon": "images/icon.png",
-  "publisher": "markskelton",
+  "publisher": "mskelton",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -50,8 +50,8 @@
       "description": "TravisCI build status"
     },
     {
-      "href": "https://marketplace.visualstudio.com/items?itemName=markskelton.marie",
-      "url": "https://img.shields.io/visual-studio-marketplace/v/markskelton.marie.svg",
+      "href": "https://marketplace.visualstudio.com/items?itemName=mskelton.marie",
+      "url": "https://img.shields.io/visual-studio-marketplace/v/mskelton.marie.svg",
       "description": "Visual Studio Marketplace version"
     }
   ],
