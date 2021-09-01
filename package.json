@@ -16,7 +16,7 @@
     "language"
   ],
   "author": "Mark Skelton",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/mskelton/vscode-marie/issues"
   },
