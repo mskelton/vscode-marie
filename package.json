@@ -45,11 +45,6 @@
   },
   "badges": [
     {
-      "href": "https://travis-ci.com/mskelton/vscode-marie",
-      "url": "https://travis-ci.com/mskelton/vscode-marie.svg?branch=master",
-      "description": "TravisCI build status"
-    },
-    {
       "href": "https://marketplace.visualstudio.com/items?itemName=mskelton.marie",
       "url": "https://img.shields.io/visual-studio-marketplace/v/mskelton.marie.svg",
       "description": "Visual Studio Marketplace version"
