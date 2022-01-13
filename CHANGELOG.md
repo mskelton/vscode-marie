@@ -1,13 +1,6 @@
-# CHANGELOG
+# Changelog
 
-## 1.2.0 | 2019-03-11
-
-- Add hex number support
-
-## 1.1.0 | 2019-03-10
-
-- Add icon
-
-## 1.0.4 | 2019-03-10
-
-- Initial release
+The changelog is automatically updated using
+[semantic-release](https://github.com/semantic-release/semantic-release). You
+can see it on the
+[releases page](https://github.com/one-dark/vscode-one-dark-theme/releases).

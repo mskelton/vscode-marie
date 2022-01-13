@@ -1,7 +1,4 @@
 node_modules/
-lib/
+
 .vscode/*
-!.vscode/tasks.json
 !.vscode/launch.json
-.DS_Store
-*.log
