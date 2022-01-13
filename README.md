@@ -7,4 +7,4 @@
 
 MARIE language support for VS Code.
 
-![Code example]()
+![Code example](https://user-images.githubusercontent.com/25914066/149350184-4883182e-d08a-4db7-a963-e088322c0787.png)
