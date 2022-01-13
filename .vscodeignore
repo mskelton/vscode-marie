@@ -1,7 +1,6 @@
 .github/
 .vscode/
 examples/
-static/
 node_modules/
 .gitignore
 .releaserc.json
