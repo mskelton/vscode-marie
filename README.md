@@ -1,4 +1,4 @@
-# VS Code One Dark Theme
+# VS Code MARIE
 
 [![Release](https://github.com/mskelton/vscode-marie/actions/workflows/release.yml/badge.svg)](https://github.com/mskelton/vscode-marie/actions/workflows/release.yml)
 [![Extension version](https://img.shields.io/vscode-marketplace/v/mskelton.marie.svg)](https://marketplace.visualstudio.com/items?itemName=mskelton.marie)
