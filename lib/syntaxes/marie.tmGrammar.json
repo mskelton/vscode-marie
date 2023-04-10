@@ -10,6 +10,9 @@
       "include": "#directives"
     },
     {
+      "include": "#keywords"
+    },
+    {
       "include": "#instructions"
     },
     {
@@ -39,6 +42,11 @@
       "comment": "Directive",
       "match": "(?i)\\b(org|oct|dec|hex)\\b",
       "name": "entity.name.function.directive.marie"
+    },
+    "keywords": {
+      "comment": "Keyword",
+      "match": "(?i)\\badr\\b",
+      "name": "keyword.other.marie"
     },
     "instructions": {
       "comment": "Instruction",
