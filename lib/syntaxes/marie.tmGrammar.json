@@ -76,7 +76,7 @@
     },
     "hex-numbers": {
       "comment": "Hex numbers",
-      "match": "\\b([0-9a-f][0-9a-f][0-9a-f]+)\\b",
+      "match": "\\b([0-9a-fA-F]+)\\b",
       "name": "constant.numeric.hex.marie"
     }
   }
