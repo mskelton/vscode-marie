@@ -10,6 +10,9 @@
       "include": "#directives"
     },
     {
+      "include": "#keywords"
+    },
+    {
       "include": "#instructions"
     },
     {
@@ -39,6 +42,11 @@
       "comment": "Directive",
       "match": "(?i)\\b(org|oct|dec|hex)\\b",
       "name": "entity.name.function.directive.marie"
+    },
+    "keywords": {
+      "comment": "Keyword",
+      "match": "(?i)\\badr\\b",
+      "name": "keyword.other.marie"
     },
     "instructions": {
       "comment": "Instruction",
@@ -76,7 +84,7 @@
     },
     "hex-numbers": {
       "comment": "Hex numbers",
-      "match": "\\b([0-9a-f][0-9a-f][0-9a-f]+)\\b",
+      "match": "\\b([0-9a-fA-F]+)\\b",
       "name": "constant.numeric.hex.marie"
     }
   }
